@@ -26,6 +26,7 @@ describes patterns, not any one app's internals.
 |---|---|
 | [playbook/START_HERE.md](playbook/START_HERE.md) | Pick a delivery timeline and the eight steps from idea to launch |
 | [playbook/IOS_APP_PLAYBOOK.md](playbook/IOS_APP_PLAYBOOK.md) | The phase-by-phase execution framework: strategy, PRD, foundation, core loop, privacy, beta, launch, post-launch |
+| [playbook/APP_STORE_REVIEW.md](playbook/APP_STORE_REVIEW.md) | Getting through App Review the first time: preparation, the rules that surprise people, submission mechanics, handling a rejection |
 | [playbook/SHIPPING_AND_OPERATIONS.md](playbook/SHIPPING_AND_OPERATIONS.md) | General lessons on releasing and running an app: deploy surfaces, branches, secrets, scheduled jobs, monitoring, money basics, macOS gotchas |
 
 ### Short reads
@@ -48,7 +49,8 @@ describes patterns, not any one app's internals.
 3. Follow the phases in [IOS_APP_PLAYBOOK.md](playbook/IOS_APP_PLAYBOOK.md).
 4. Before the first release, read [SHIPPING_AND_OPERATIONS.md](playbook/SHIPPING_AND_OPERATIONS.md)
    and set up releases, secrets and monitoring the way it describes.
-5. Run the launch checklist. If any P0 item is open, delay.
+5. Prepare the submission with [APP_STORE_REVIEW.md](playbook/APP_STORE_REVIEW.md).
+6. Run the launch checklist. If any P0 item is open, delay.
 
 ## Contributing
 

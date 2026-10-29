@@ -164,7 +164,10 @@ Release with confidence and observability.
 2. Verify screenshots and metadata by locale.
 3. Lock the launch candidate build.
 4. Run the launch checklist (see template).
-5. Publish the changelog and support channels.
+5. Prepare the submission as [APP_STORE_REVIEW.md](APP_STORE_REVIEW.md) describes:
+   demo account, review notes, privacy questionnaire from the data map, TestFlight
+   external review first.
+6. Publish the changelog and support channels.
 
 ### Deliverables
 

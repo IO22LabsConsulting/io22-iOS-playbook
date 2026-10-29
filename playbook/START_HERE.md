@@ -95,7 +95,8 @@ If any P0 item is incomplete, delay launch.
 
 1. [IOS_APP_PLAYBOOK.md](IOS_APP_PLAYBOOK.md)
 2. [SHIPPING_AND_OPERATIONS.md](SHIPPING_AND_OPERATIONS.md)
-3. [01-product-thesis-and-scope.md](../content-pieces/01-product-thesis-and-scope.md)
+3. [APP_STORE_REVIEW.md](APP_STORE_REVIEW.md)
+4. [01-product-thesis-and-scope.md](../content-pieces/01-product-thesis-and-scope.md)
 4. [02-app-architecture-for-small-teams.md](../content-pieces/02-app-architecture-for-small-teams.md)
 5. [03-delivery-plan-and-sprint-system.md](../content-pieces/03-delivery-plan-and-sprint-system.md)
 6. [04-privacy-trust-and-app-store-launch.md](../content-pieces/04-privacy-trust-and-app-store-launch.md)
